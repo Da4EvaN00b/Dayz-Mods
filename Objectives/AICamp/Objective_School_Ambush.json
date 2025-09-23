@@ -24,7 +24,7 @@
       "LootingBehaviour": "",
       "Speed": "RANDOM_NONSTATIC ",
       "UnderThreatSpeed": "SPRINT",
-      "CanBeLooted": 0,
+      "CanBeLooted": 1,
       "UnlimitedReload": 1,
       "SniperProneDistanceThreshold": 80,
       "AccuracyMin": 0.3,
@@ -46,9 +46,9 @@
       "UseRandomWaypointAsStartPoint": 1,
       "Waypoints": [
         [
-          3245.75,
-          203.84300231933594,
-          13027.900390625
+          9933.305664,
+           12.754945,
+           871.811584
         ]
       ]
     },
@@ -65,7 +65,7 @@
       "LootingBehaviour": "",
       "Speed": "RANDOM_NONSTATIC ",
       "UnderThreatSpeed": "SPRINT",
-      "CanBeLooted": 0,
+      "CanBeLooted": 1,
       "UnlimitedReload": 1,
       "SniperProneDistanceThreshold": 80,
       "AccuracyMin": 0.3,
@@ -111,7 +111,7 @@
       "LootingBehaviour": "",
       "Speed": "RANDOM_NONSTATIC ",
       "UnderThreatSpeed": "SPRINT",
-      "CanBeLooted": 0,
+      "CanBeLooted": 1,
       "UnlimitedReload": 1,
       "SniperProneDistanceThreshold": 80,
       "AccuracyMin": 0.3,
@@ -152,7 +152,7 @@
       "LootingBehaviour": "",
       "Speed": "RANDOM_NONSTATIC ",
       "UnderThreatSpeed": "SPRINT",
-      "CanBeLooted": 0,
+      "CanBeLooted": 1,
       "UnlimitedReload": 1,
       "SniperProneDistanceThreshold": 80,
       "AccuracyMin": 0.3,
@@ -199,7 +199,7 @@
       "LootingBehaviour": "",
       "Speed": "RANDOM_NONSTATIC ",
       "UnderThreatSpeed": "SPRINT",
-      "CanBeLooted": 0,
+      "CanBeLooted": 1,
       "UnlimitedReload": 1,
       "SniperProneDistanceThreshold": 80,
       "AccuracyMin": 0.3,
