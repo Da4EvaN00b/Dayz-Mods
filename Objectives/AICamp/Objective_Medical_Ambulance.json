@@ -28,7 +28,7 @@
       "UnlimitedReload": 1,
       "SniperProneDistanceThreshold": 80,
       "AccuracyMin": 0.9,
-      "AccuracyMax": 1,
+      "AccuracyMax": 0.8,
       "ThreatDistanceLimit": 500,
       "NoiseInvestigationDistanceLimit": 400,
       "DamageMultiplier": 1,
